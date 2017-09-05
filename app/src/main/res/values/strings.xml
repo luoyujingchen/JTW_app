@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JTW</string>
+
+    <string name="new_picture">New</string>
+    <string name="hot_picture">Hot</string>
+</resources>

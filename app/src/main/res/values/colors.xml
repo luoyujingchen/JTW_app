@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="user_info_message_notice">#E35B5A</color>
+    <color name="dot_text">#fff</color>
+    <color name="list_divider_color">#616eed</color>
+    <color name="white">#fff</color>
+</resources>
